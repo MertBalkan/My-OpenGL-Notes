@@ -23,7 +23,7 @@
     <li><p>My Headers</p></li>
     <li><p>My OpenGL Notes</p></li>
   </ul>
-  <li><p>Testures</p></li>
+  <li><p>Textures</p></li>
   <li><p>Udemy OpenGL Notes</p></li>
   <ul>
     <li><p>Udemy Course Headers</p></li>
