@@ -18,11 +18,11 @@
     <li><p>Episode1-Solutions</p></li>
   </ul>
   <li><p>Self Work Scripts</p></li>
-  <li><p>Shaders</p></li>
   <ul>
     <li><p>My Headers</p></li>
     <li><p>My OpenGL Notes</p></li>
   </ul>
+  <li><p>Shaders</p></li>
   <li><p>Textures</p></li>
   <li><p>Udemy OpenGL Notes</p></li>
   <ul>
