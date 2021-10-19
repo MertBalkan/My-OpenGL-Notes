@@ -1,0 +1,40 @@
+﻿  1_1.cpp
+  1_2.cpp
+  1_3.cpp
+  2_1.cpp
+  3_1.cpp
+  Camera.cpp
+  campMain.cpp
+  EBO.cpp
+  KAmain.cpp
+  main.cpp
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.h(14,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.h(15,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\main.cpp(99,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Mesh.cpp
+  MShader.cpp
+  MyMain.cpp
+  shaderClass.cpp
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\shaderClass.cpp(10,27): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+  shaderprogram.cpp
+  SneakMain.cpp
+  Square.cpp
+  Texture.cpp
+  UdemyShader.cpp
+  VAO.cpp
+  Generating Code...
+  Compiling...
+  VBO.cpp
+  Window.cpp
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.h(14,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.h(15,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.cpp(117,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.cpp(118,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.cpp(122,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.cpp(123,49): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.cpp(125,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.cpp(126,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+C:\Users\mert_\source\repos\UdemyOpenGLCourse\UdemyOpenGLCourse\Window.cpp(74): warning C4715: 'Window::Initialise': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  UdemyOpenGLCourse.vcxproj -> C:\Users\mert_\source\repos\UdemyOpenGLCourse\Debug\UdemyOpenGLCourse.exe
